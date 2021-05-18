@@ -1,0 +1,11 @@
+.cards-container {
+    width: 800px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.error {
+    color: red;
+    font-size: 16px;
+}

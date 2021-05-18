@@ -1,0 +1,43 @@
+.cards-container {
+    padding-top: 20px;
+}
+
+.card {
+    width: 620px;
+    display: flex;
+    flex-direction: row;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: -5px 5px 15px 1px #3f3d4d;
+}
+
+.title-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.title-description {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    padding: 20px;
+}
+
+.title {
+    font-size: 30px;
+    text-align: left;
+    padding: 10px 0 0 0;
+    margin: 5px;
+}
+
+.description{
+    color: black;
+    font-size: 16px;
+    text-align: left;
+}
